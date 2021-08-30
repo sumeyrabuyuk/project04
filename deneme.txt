@@ -1,8 +1,7 @@
 merhabalar
 merhaba2
 sum
-<<<<<<< HEAD
-cakısma olacak
-=======
-deneme remote
->>>>>>> 058c7d5cec16d1cd156e8ed0898dc0224d2445f6
+bbbbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbbbbbbb
+bbbbbbbbb
+bbbbbbbbbbbb
