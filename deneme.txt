@@ -1,3 +1,4 @@
 merhabalar
 merhaba2
 sum
+deneme remote
